@@ -1,0 +1,23 @@
+p{
+	color: red;
+	font-style: italic;
+	text-decoration: underline;
+	font-size: 140px;
+}
+body{
+	background-color: blue;
+}
+#img1{
+	position: relative;
+	top:1px;
+	left:145px;
+}
+#wid1{
+	position: relative;
+	top: 1px;
+	left: 603px;
+}
+#wid2{
+	font-size: 30px;
+	color: yellow;
+}
